@@ -1,0 +1,34 @@
+<metal:block use-macro="main_template">
+
+   <tal:block metal:fill-slot="content">
+  
+  <div class="main">
+    <section class="page1">
+      <div class="page_container">
+        <h1>Having Problems with Your Boss?</h1>
+</div>
+
+    </section>
+    <section class="page2">
+      <div class="page_container">
+        <h1>We Can Help!</h1>
+        <p>"Newcastle Solidarity Federation can work with you to win wages,
+          better working conditions, help you and your workmates organise.</p>
+      </div>
+    </section>
+    <section class="page3">
+      <div class="page_container">
+        <h1>Whats the Catch?</h1>
+        <p>There is no catch, all we ask is that you work side by side with you in disputes and ask in return that you lend support and solidarity to other disputes in the future. We are not a traditional union.</p>
+      </div>
+    </section>
+  </div>
+  <script type="text/javascript">
+      $(".main").onepage_scroll({
+        sectionContainer: "section"
+      });
+    </script>
+
+    </tal:block>
+
+</metal:block>

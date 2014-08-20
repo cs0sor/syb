@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" class="demo1 no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Make your website scroll one page at a time with OnePageScroll.js</title>
+    <meta name="description" content="The plugin will detect your mouse wheel and swipe gestures to determine which way the page should scroll." />
+    <meta name="keywords" content="scroller, jquery one page scroll, onepagescroll, animated scrolling" />
+    <meta name="author" content="Author for Onextrapixel" />
+    <link rel="shortcut icon" id="favicon" href="favicon.png"> 
+          <link href="http://oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/default.css')}" />
+    
+
+    <!-- Edit Below -->
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <script src="http://oss.maxcdn.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    
+    <script src="${request.static_url('stuff_your_boss:static/js/jquery.onepage-scroll.js')}"></script>
+
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/style.css')}" />
+      
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/onepage-scroll.css')}" />
+      
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/elusive-webfont.css')}" />
+      
+      <script src="../file/js/modernizr.js"></script>
+  </head>
+  <body class="demo1">
+          <div class="container-fluid">
+
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="${request.route_url('home')}"><img src="${request.static_url('stuff_your_boss:static/images/solfed.png')}" width='74' height='74'/></a>
+            </div>
+
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right bottom-links">
+                <li>
+                  <a href="${request.route_url('home')}">
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a href="${request.route_url('case-studies')}">
+                    Case Studies
+                  </a>
+                </li>
+                <li>
+                  <a href="${request.route_url('about')}">
+                    About
+                  </a>
+                </li>
+                <li>
+                  <a href="${request.route_url('contact')}">
+                    Contact
+                  </a>
+                </li>
+              </ul>
+            </div>
+</div>
+        </nav>
+          </div>
+
+
+
+<div>
+  <div class="nav-top clearfix">
+    <span class="right"><a class="nav-icon icon-th" href="http://www.onextrapixel.com/category/tutorials/"><span>View all Tutorials</span></a></span>
+    <span class="right"><a class="nav-icon icon-left" href="http://www.onextrapixel.com/2013/09/18/onepagescroll-js-creating-an-apples-iphone-5s-website/"><span>Back to Tutorial Article</span></a></span>
+  </div>
+  
+  <div class="header">
+    <h1>Scroll website one page at a time<br>with OnePageScroll.js: Easing Effect</h1>
+  </div>
+  
+  <div class="menu">
+    <a class="active" href="index.html">Demo 1</a>
+    <a href="index2.html">Demo 2</a>
+    <a href="index3.html">Demo 3</a>
+  </div>
+  
+  <div class="main">
+    <section class="page1">
+      <div class="page_container">
+        <h1>Forward Thinking</h1>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."</p>
+        </div>
+    </section>
+    <section class="page2">
+      <div class="page_container">
+        <h1>iPhone 5S</h1>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+      </div>
+    </section>
+    <section class="page3">
+      <div class="page_container">
+        <h1>Pretty cool eh?</h1>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+      </div>
+    </section>
+  </div>
+  <script type="text/javascript">
+      $(".main").onepage_scroll({
+        sectionContainer: "section"
+      });
+    </script>
+  </div>
+  </body>
+</html>

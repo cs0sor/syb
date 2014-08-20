@@ -1,0 +1,36 @@
+<metal:block use-macro="main_template">
+
+   <div metal:fill-slot="content">
+
+		<div class="page-header">
+		
+			 <h1>About Us.</h1>
+		
+		</div>
+		
+<h2>OUR AIMS AND PRINCIPLES</h2>
+
+<p>The Stuff Yer Boss campaign is made up of a volunteer network of workers who support each other and organise to deal with specific workplace issues such as stolen wages, bad working conditions and low pay - caused by the greed of bosses. We recognise that employment law protects these bosses more often than it does workers, so we come together and take direct action to protect ourselves.</p>
+
+
+<ol>
+<li>Stuff Yer Boss is an all-volunteer campaign that takes direct action to defend the interests of workers.</li>
+ 
+<li>We use collective action, like picketing businesses to win back stolen deposits/fees.</li>
+ 
+<li>We organise by direct democracy – everyone has an equal say.</li>
+ 
+<li>We oppose all forms of discrimination and oppression by employers.</li>
+ 
+<li>When deciding what struggles to get involved in we ask:</li>
+
+    <ul>
+      <li>Can we win it?</li>
+ 
+      <li>Are the people affected willing to participate and will they come out to support other workers?</li>
+    </ul>
+</ol>
+
+	</div>
+
+</metal:block>

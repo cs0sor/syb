@@ -1,0 +1,29 @@
+
+
+/*.navbar-default {
+
+	font-size: 44px;
+
+}
+
+.navbar-brand {
+
+	font-size: 44px;
+	
+}*/
+
+.navbar>.container .navbar-brand {
+position:fixed;
+margin-top: -11px;
+}
+
+.navbar-default {
+background-color: rgb(255, 255, 255);
+background-color: rgba(255, 255, 255, 0.7)!important;
+
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto',Arial,sans-serif;
+}
+

@@ -1,0 +1,60 @@
+<metal:block use-macro="main_template">
+
+   <div metal:fill-slot="content">
+
+		<div class="page-header">
+		
+			 <h1>Case Studies.</h1>
+		
+		</div>
+		
+		<h2>Case Study One</h2>
+
+		 <p>
+		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at venenatis quam, id gravida velit. Morbi aliquet vel nisi et accumsan. Vestibulum fringilla libero nec ante faucibus, euismod rhoncus dui aliquam. Ut nec turpis metus. Suspendisse rhoncus id lacus sed rhoncus. Donec vel lectus a mi interdum auctor. Integer non dapibus arcu.</p>
+
+		 <p>
+			Nullam nec metus consequat, adipiscing justo nec, lacinia libero. Donec a vestibulum velit. Sed et semper nisl, vel vulputate sapien. Duis vulputate sagittis sapien at pretium. Integer neque leo, consequat quis viverra vel, rhoncus vitae nisl. Pellentesque in pulvinar turpis, non rhoncus tortor. Duis eu pharetra orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque feugiat imperdiet ante, vel posuere lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies augue eget tempus euismod. Vestibulum eget dolor felis. Maecenas in nulla condimentum, tempor tellus ut, scelerisque felis. Praesent fermentum suscipit ligula id feugiat. Vestibulum auctor felis est, eu posuere nibh venenatis et. In sed auctor odio.
+		</p>
+
+		<p>
+			Cras lacinia dignissim condimentum. Nullam vel arcu nisi. Phasellus enim purus, lobortis in felis sed, convallis placerat mi. Fusce mauris risus, fringilla id orci at, mollis ornare sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum porttitor congue porta. Sed pellentesque cursus facilisis. Donec in dolor vel neque lacinia auctor. Proin gravida sem et dui hendrerit, id mollis lectus porta. Duis at augue viverra eros sollicitudin facilisis. Maecenas rhoncus turpis quam, nec vulputate libero tincidunt ut. Nullam imperdiet nunc ut pulvinar dignissim.
+		</p>
+
+		<p>
+			Donec dignissim, sapien quis viverra dapibus, justo diam luctus dolor, non hendrerit felis magna nec velit. Fusce viverra, libero quis accumsan varius, erat eros adipiscing eros, quis ultrices nulla felis eget arcu. Fusce sit amet pellentesque risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent dignissim ut nisi et eleifend. Proin at ultrices augue, eu tincidunt arcu. Nunc pellentesque turpis vel egestas tempor. Phasellus condimentum, eros eu semper volutpat, nunc lectus interdum est, at consequat justo nibh ut mi. 	Integer vel ornare velit. Curabitur ligula nunc, commodo in tempus ut, lacinia nec felis. Duis vulputate sapien justo, a vehicula nibh dapibus a. Sed eleifend, velit quis ultricies iaculis, felis lectus blandit sem, convallis fringilla enim nulla sagittis odio.
+		</p>
+
+		<h2>Case Study Two</h2>
+
+		 <p>
+		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at venenatis quam, id gravida velit. Morbi aliquet vel nisi et accumsan. Vestibulum fringilla libero nec ante faucibus, euismod rhoncus dui aliquam. Ut nec turpis metus. Suspendisse rhoncus id lacus sed rhoncus. Donec vel lectus a mi interdum auctor. Integer non dapibus arcu.</p>
+
+		 <p>
+			Nullam nec metus consequat, adipiscing justo nec, lacinia libero. Donec a vestibulum velit. Sed et semper nisl, vel vulputate sapien. Duis vulputate sagittis sapien at pretium. Integer neque leo, consequat quis viverra vel, rhoncus vitae nisl. Pellentesque in pulvinar turpis, non rhoncus tortor. Duis eu pharetra orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque feugiat imperdiet ante, vel posuere lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies augue eget tempus euismod. Vestibulum eget dolor felis. Maecenas in nulla condimentum, tempor tellus ut, scelerisque felis. Praesent fermentum suscipit ligula id feugiat. Vestibulum auctor felis est, eu posuere nibh venenatis et. In sed auctor odio.
+		</p>
+
+		<p>
+			Cras lacinia dignissim condimentum. Nullam vel arcu nisi. Phasellus enim purus, lobortis in felis sed, convallis placerat mi. Fusce mauris risus, fringilla id orci at, mollis ornare sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum porttitor congue porta. Sed pellentesque cursus facilisis. Donec in dolor vel neque lacinia auctor. Proin gravida sem et dui hendrerit, id mollis lectus porta. Duis at augue viverra eros sollicitudin facilisis. Maecenas rhoncus turpis quam, nec vulputate libero tincidunt ut. Nullam imperdiet nunc ut pulvinar dignissim.
+		</p>
+
+		<p>
+			Donec dignissim, sapien quis viverra dapibus, justo diam luctus dolor, non hendrerit felis magna nec velit. Fusce viverra, libero quis accumsan varius, erat eros adipiscing eros, quis ultrices nulla felis eget arcu. Fusce sit amet pellentesque risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent dignissim ut nisi et eleifend. Proin at ultrices augue, eu tincidunt arcu. Nunc pellentesque turpis vel egestas tempor. Phasellus condimentum, eros eu semper volutpat, nunc lectus interdum est, at consequat justo nibh ut mi. 	Integer vel ornare velit. Curabitur ligula nunc, commodo in tempus ut, lacinia nec felis. Duis vulputate sapien justo, a vehicula nibh dapibus a. Sed eleifend, velit quis ultricies iaculis, felis lectus blandit sem, convallis fringilla enim nulla sagittis odio.
+		</p>
+
+		<h2>Case Study Three</h2>
+
+			<p>Unifying groups of workers in the hospitality industry that have had similar experiences of wage theft and poor working conditions, Brighton SolFed have started a campaign to further support workers in this industry with an initiative to build a union.</p>
+
+			<p>Through hard work, they have promoted the union initiative, trained members using SolFed's Workplace Organiser training and gathered contacts using public stalls and distributing thousands of leaflets and posters. Having fought several battles of wage theft, the campaign has won every fight so far. It is still very early days for the campaign; their main support still comes from the SolFed Local, however as the union initiative builds membership they "would like actual hospitality workers to take over, become members, and organise from inside those shops, on a more permanent basis." SolFed see this as a paramount importance; we believe creating fighting unions controlled by the membership is ultimately more effective than supporting workers from the outside.</p>
+
+			<p>Working as a collective and with the support of the Brighton Local and fellow workers in the hospitality industry, Brighton Hospitality Workers have won stolen pay running into many thousands.</p>
+
+			<p>Uniting workers in the same industry is part of SolFed's strategy of fighting for ourselves; using direct action and bottom-up democracy to win these fights, allows workers to keep control of their own union.</p>
+
+			<p>Not every fight is an easy fight, but always worth fighting. From a group of isolated, ripped-off workers, they have created a support network that has brought a sense of confidence and protection where there was none. As always, they have much to do and a long way to go, but remain an inspiration in showing us what can come about if enough of us stand up to crooked bosses.</p>
+
+
+	</div>
+
+</metal:block>
