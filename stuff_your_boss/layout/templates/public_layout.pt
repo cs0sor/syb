@@ -11,17 +11,23 @@
                 <title>Stuff Your Boss - Solidarity Federation</title>
     <link rel="shortcut icon" id="favicon" href="favicon.png"> 
           <link href="http://oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-  
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/default.css')}" />
     
 
     <!-- Edit Below -->
-    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:900' rel='stylesheet' type='text/css'>
+    <script src="http://oss.maxcdn.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="${request.static_url('stuff_your_boss:static/js/smooth-scroll.js')}"></script>
+
+    <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/elusive-webfont.css')}" />
 
     <link rel="stylesheet" type="text/css" href="${request.static_url('stuff_your_boss:static/css/custom.css')}" />
 
       </head>
 
-      <body class="demo1">
+      <body class="demo1" style="hright:100%; margin:0;">
       <div class="container-fluid">
 
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -49,11 +55,6 @@
                   </a>
                 </li>
                 <li>
-                  <a href="${request.route_url('about')}">
-                    About
-                  </a>
-                </li>
-                <li>
                   <a href="${request.route_url('contact')}">
                     Contact
                   </a>
@@ -64,16 +65,16 @@
         </nav>
           </div>
 
+    <metal:content define-slot="content" />
 
-
-    <div class="container" style="padding-top:50px;">  
-
-      <metal:content define-slot="content" />
-
-    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+
+      <script>
+    smoothScroll.init();
+</script>
+
   </body>
 </html>

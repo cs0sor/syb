@@ -23,7 +23,83 @@ background-color: rgba(255, 255, 255, 0.7)!important;
 
 }
 
-h1, h2, h3 {
-	font-family: 'Roboto',Arial,sans-serif;
+body {
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
+.header-style {
+
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.pad-heading {
+
+	padding-bottom: 15px;
+
+}
+
+.section p {
+
+	padding-bottom: 10	px;
+
+}
+
+
+body header {
+	background-position: top center;
+	width:100%;
+	height:100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: 2;
+	position: relative;
+	background-image: url("/static/images/header_image.jpg");
+	text-rendering: geometricPrecision;
+	font-size: 1em;
+	line-height: 1.86em;
+
+}
+
+html, body {
+   height:100%;
+   width: 100%;
+   margin:0;
+   margin-top: -20px;
+   padding: 0;
+}
+
+.vertical-top {
+
+	position: relative;
+	top: 25%;
+	text-align: center;
+	max-width: 600px;
+	margin: 0 auto;
+	z-index: 2;
+	color:#bbb;
+
+}
+
+.section {
+
+	padding-top: 75px;
+	padding-bottom:100px;
+
+}
+
+.vertical-bottom {
+
+	position: relative;
+	top: 65%;
+	text-align: center;
+	max-width: 600px;
+	margin: 0 auto;
+	z-index: 3;
+
+}
+
+.centered
+{
+    text-align:center;
+}

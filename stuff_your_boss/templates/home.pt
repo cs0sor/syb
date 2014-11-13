@@ -2,33 +2,51 @@
 
    <tal:block metal:fill-slot="content">
   
-  <div class="main">
-    <section class="page1">
-      <div class="page_container">
-        <h1>Having Problems with Your Boss?</h1>
+
+
+    <header>
+
+      <div class="vertical-top">
+
+        <h1 class="header-style">HAVING A PROBLEM WITH YOUR BOSS? WE CAN HELP!</h1>
+
+        <p>Newcastle Solidarity Federation organises with you and takes direct action to get back your wages, to improve your working conditions, to help you to organise in your workplace.</p>
+  
+        <br/>
+        <a data-scroll href="#section-one" class="btn btn-primary btn-lg">Find Out More...</a>
+
+
+      </div>
+
+    </header>
+
+<div class="col-md-12">
+  <div id="section-one" class="section col-md-8 col-md-offset-2">
+
+    <h2 class="header-style pad-heading">WHO WE ARE</h2>
+
+    <p>Newcastle Solidarity Federation (SolFed) is part of a <a href="http://www.solfed.org.uk/">national</a> and <a href="http://www.iwa-ait.org/">international federation</a> of radical <a href="http://libcom.org/library/what-anarcho-syndicalism">anarcho-syndicalist</a> unions. We support individuals and groups to organise in their places of work.</p>
+
+    <h2 class="header-style pad-heading">HOW ARE WE DIFFERENT FROM OTHER UNIONS?</h2>
+
+    <p>SolFed is an anarcho-syndicalist union, all our campaigns and struggles are lead by those with the complaints. We organise from the bottom up and our politics are revolutionary. We will not sell you insurance and we do not insist that you join us, but if you do, you will be warmly welcomed. SolFed is about struggle and unity, being a member means being as active as possible - though we all have busy lives, we don't expect your soul! SolFed is not a mediator between bosses and workers - we always side with the workers and fight to win.</p>
+
+    <h2 class="header-style pad-heading">WHAT WE DO</h2>
+
+    <p>We specialise in the cases that other unions leave behind, and will show solidarity to all workers in struggle regardless of membership. SolFed has an excellent track record of winning case work. If you or anyone you know have a problem with your boss, get in touch. We are not a service who will fix things on your behalf, we always expect your involvement. We provide free advice and support based around your input, using direct action tactics as well as free organiser training to help build your own workplace SolFed union. If you have a problem with your boss - give us a call!</p>
+
+
+    <div class="centered">
+
+    <a class="btn btn-primary btn-lg" style="align='center'" href="${request.route_url('case-studies')}">Lets take a look at some of our Successes</a>
+
+  </div>
+
+
+
+
+  </div>
 </div>
 
-    </section>
-    <section class="page2">
-      <div class="page_container">
-        <h1>We Can Help!</h1>
-        <p>"Newcastle Solidarity Federation can work with you to win wages,
-          better working conditions, help you and your workmates organise.</p>
-      </div>
-    </section>
-    <section class="page3">
-      <div class="page_container">
-        <h1>Whats the Catch?</h1>
-        <p>There is no catch, all we ask is that you work side by side with you in disputes and ask in return that you lend support and solidarity to other disputes in the future. We are not a traditional union.</p>
-      </div>
-    </section>
-  </div>
-  <script type="text/javascript">
-      $(".main").onepage_scroll({
-        sectionContainer: "section"
-      });
-    </script>
-
     </tal:block>
-
 </metal:block>

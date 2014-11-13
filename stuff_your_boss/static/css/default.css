@@ -56,14 +56,9 @@ body, html {
 /* Main Style */
 body {
 	font-family: 'Roboto',Arial,sans-serif;
-	color: #fff;
-	background: #f8d135;
+	color: #333;
 }
 
-a, a:visited {
-	color: #888; 
-	text-decoration: none;
-}
 
 a:hover, a:active {
 	color: #333;

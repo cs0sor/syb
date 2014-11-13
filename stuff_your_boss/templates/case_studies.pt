@@ -2,13 +2,20 @@
 
    <div metal:fill-slot="content">
 
+	<div class="col-md-12">
+  <div class="section col-md-8 col-md-offset-2">
+
+
 		<div class="page-header">
 		
-			 <h1>Case Studies.</h1>
+			 <h1 class="header-style pad-heading">CASE STUDIES</h1>
 		
-		</div>
-		
-		<h2>Case Study One</h2>
+			</div>
+			
+		<h2 class="header-style pad-heading">CASE STUDY ONE - A FIGHT FOR WAGES</h2>
+
+		<p>
+
 
 		<p>A worker at a glazing firm in Monkseaton, on the outskirts of Newcastle Upon Tyne, approached Newcastle Solfed for assistance  in obtaining weeks worth of unpaid wages. After her employer palmed her off with empty promises.</p>
 
@@ -29,36 +36,60 @@
 
 		The employee was amazed at how quickly direct action had been effective. Afterall, she had tried to deal with this problem on her own for some time. She has no doubt that without the intervention of Newcastle Solfed, she definitely would not have “ever seen a penny of her wages”.</p>
 
-		<h2>Case Study Two</h2>
+		<h2 class="header-style pad-heading">CASE STUDY TWO - ORGANISING IN A PARTICULAR SECTOR</h2>
 
-		 <p>
-		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at venenatis quam, id gravida velit. Morbi aliquet vel nisi et accumsan. Vestibulum fringilla libero nec ante faucibus, euismod rhoncus dui aliquam. Ut nec turpis metus. Suspendisse rhoncus id lacus sed rhoncus. Donec vel lectus a mi interdum auctor. Integer non dapibus arcu.</p>
 
-		 <p>
-			Nullam nec metus consequat, adipiscing justo nec, lacinia libero. Donec a vestibulum velit. Sed et semper nisl, vel vulputate sapien. Duis vulputate sagittis sapien at pretium. Integer neque leo, consequat quis viverra vel, rhoncus vitae nisl. Pellentesque in pulvinar turpis, non rhoncus tortor. Duis eu pharetra orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque feugiat imperdiet ante, vel posuere lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies augue eget tempus euismod. Vestibulum eget dolor felis. Maecenas in nulla condimentum, tempor tellus ut, scelerisque felis. Praesent fermentum suscipit ligula id feugiat. Vestibulum auctor felis est, eu posuere nibh venenatis et. In sed auctor odio.
-		</p>
+ 
+<p>The hospitality industry –workers in cafes, restaurants, canteens and hotels– is the fourth largest employer in Britain. It is also renowned for low pay, insecurity and competition where the workers end up losing. Many workers in this industry are expected to work unpaid ‘trial’ shifts; they have ‘administration charges’ deducted from their tips; they are made to work ten-hour shifts without being given breaks and are often subject to various forms of bullying by management. Many are used to turning up for a shift only to be sent away unpaid because the restaurant is quiet. Many are not paid the wages they are owed and, in some cases, have been forced into periods of homelessness. On top of the generally precarious nature of their work, many workers in the hospitality industry are subject to a growing threat of raids by the UK Border Agency.</p>
+ 
+<p>In response to this obviously serious problem, Brighton local of the Solidarity Federation (SolFed) formed Brighton Hospitality Workers (BHW) to campaign for better conditions for this grouping of exploited and unorganised, but angry workers. BHW certainly got the local bosses worried. Ordinarily, posters advertising club nights and student deals remain up for weeks in Brighton; but BHW’s posters were regularly taken down or defaced, presumably by exploiting Brighton’s hospitality workers.</p>
+ 
+<p>But the posters worked as many disgruntled hospitality workers saw them and got in touch. BHW notched up several victories against employers, winning hospitality workers back pay and holiday entitlement. Three bosses agreed to cough up over £1,000 between them to three former employees and BHW members. Two of these employers were a multinational hotel chain and a transnational employment agency.</p>
+ 
+<p>This is what happened in the case of the multinational hotel chain campaign. In February 2014, two BHW members brought a grievance to the group over holiday entitlement they had not been paid while working for a multinational hotel chain. The hotel’s housekeeping staff were contracted to work there by the UK operation of an international recruitment agency with a reputation for withholding pay, particularly after workers’ contracts had been terminated. One worker was owed £286 in holiday pay for leave she was prevented from taking, despite repeated requests to her manager, as well as two days’ outstanding sick pay. The second worker was owed £180 in holiday pay, also for leave she was prevented from taking, and, once again, despite repeated requests. In December 2013, her boss told her she ‘had lost’ her right to take paid leave.</p>
+ 
+<p>Interviews with the workers exposed shameful conditions at the hotel; recording workers’ experiences is an important part of BHW strategy.</p>
+One said:
+<div class="col-md-11 col-md-offset-1">
+<p>
+<i>Housekeeper’s health conditions don’t matter and work pressure is huge. You are expected to work really fast, maintaining a work rate of [cleaning] 3 or 4 rooms an hour, sometimes without taking breaks for lunch and feeling dizzy or dehydrated. You know when you start but never when you’ll finish.</i></p>
+</div>
 
-		<p>
-			Cras lacinia dignissim condimentum. Nullam vel arcu nisi. Phasellus enim purus, lobortis in felis sed, convallis placerat mi. Fusce mauris risus, fringilla id orci at, mollis ornare sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum porttitor congue porta. Sed pellentesque cursus facilisis. Donec in dolor vel neque lacinia auctor. Proin gravida sem et dui hendrerit, id mollis lectus porta. Duis at augue viverra eros sollicitudin facilisis. Maecenas rhoncus turpis quam, nec vulputate libero tincidunt ut. Nullam imperdiet nunc ut pulvinar dignissim.
-		</p>
 
-		<p>
-			Donec dignissim, sapien quis viverra dapibus, justo diam luctus dolor, non hendrerit felis magna nec velit. Fusce viverra, libero quis accumsan varius, erat eros adipiscing eros, quis ultrices nulla felis eget arcu. Fusce sit amet pellentesque risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent dignissim ut nisi et eleifend. Proin at ultrices augue, eu tincidunt arcu. Nunc pellentesque turpis vel egestas tempor. Phasellus condimentum, eros eu semper volutpat, nunc lectus interdum est, at consequat justo nibh ut mi. 	Integer vel ornare velit. Curabitur ligula nunc, commodo in tempus ut, lacinia nec felis. Duis vulputate sapien justo, a vehicula nibh dapibus a. Sed eleifend, velit quis ultricies iaculis, felis lectus blandit sem, convallis fringilla enim nulla sagittis odio.
-		</p>
 
-		<h2>Case Study Three</h2>
+<p>The workers held the recruitment agency and the hotel management equally responsible:</p>
+<div class="col-md-11 col-md-offset-1">
+<p><i>They offer cheap rooms but the only cheap thing in this hotel is the worker, who thanks to the agency, changes the bedding, cleans and tidies-up sometimes very messy and dirty rooms for less than £2 per room. Wouldn’t you have thought the hotel was happy enough with its extremely high profits?</i></p>
+</div>
+<p>As at the start of any workplace conflict that SolFed is involved in, a strategy was agreed with the workers and immediately put into place. Letters demanding payment were sent to the agency, firstly from the individual workers, and when this failed to get a response, from BHW and Brighton SolFed as a collective demand. This second letter resulted in part payment to one of the workers. But this wasn’t enough. A propaganda leaflet about the campaign, naming both hotel and agency, was drafted and sent to both, warning that if full payment wasn’t made immediately then a campaign of action would begin. BHW agreed to focus action on the hotel, being the workplace directly responsible and also the most vulnerable in terms of its public profile. This meant it was up to the hotel bosses to put pressure on the agency to pay up what they owed.</p>
+ 
+<p>BHW staged a well-attended picket of the hotel on a Saturday morning in March, where leaflets were handed to guests, staff and management, and plastered over the windscreens of guests’ cars. The hotel manager was obviously surprised by this and during a discussion with two BHW delegates hurriedly contacted her area manager and the agency director. The BHW picketers left promising escalating action –including a social media campaign that visibly alarmed the manager– until the workers’ demand were met. The hotel chain’s area manager and the agency director both contacted BHW the same afternoon, requesting that further action be suspended until they investigated the matter. Full payment was made the following week. The agency director’s statement said they were paying as 'a gesture of goodwill'.</p>
+ 
+<p>As part of their campaign to assert the rights and dignity of those who actually create the profits in the hospitality industry, BHW compiled a database of 'dodgy businesses' and bad employers. BHW set up a 'Shop Your Boss hotline' to allow angry workers to do just that. This then allowed BHW to set up an online "Rogues' Gallery", shared on social media and reproduced on a map of exploitation 'hotspots' in Brighton.</p> 
 
-			<p>Unifying groups of workers in the hospitality industry that have had similar experiences of wage theft and poor working conditions, Brighton SolFed have started a campaign to further support workers in this industry with an initiative to build a union.</p>
 
-			<p>Through hard work, they have promoted the union initiative, trained members using SolFed's Workplace Organiser training and gathered contacts using public stalls and distributing thousands of leaflets and posters. Having fought several battles of wage theft, the campaign has won every fight so far. It is still very early days for the campaign; their main support still comes from the SolFed Local, however as the union initiative builds membership they "would like actual hospitality workers to take over, become members, and organise from inside those shops, on a more permanent basis." SolFed see this as a paramount importance; we believe creating fighting unions controlled by the membership is ultimately more effective than supporting workers from the outside.</p>
+		<h2 class="header-style pad-heading">CASE STUDY THREE - ORGANISING IN THE WORKPLACE</h2>
+
+			<p>Unifying groups of workers in the hospitality industry that have had similar experiences of wage theft and poor working conditions, Brighton SolFed have started a campaign to further support workers in this industry to build a union.</p>
+
+			<p>Through hard work, they have promoted the union, trained members using SolFed's Workplace Organiser training and gathered contacts using public stalls and distributing thousands of leaflets and posters. Having fought several battles of wage theft, the campaign has won every fight so far. It is still very early days for the campaign; their main support still comes from the SolFed Local, however as the union builds membership they "would like actual hospitality workers to take over, become members, and organise from inside those shops, on a more permanent basis." SolFed see this as a paramount importance; we believe creating fighting unions controlled by the membership is ultimately more effective than supporting workers from the outside.</p>
 
 			<p>Working as a collective and with the support of the Brighton Local and fellow workers in the hospitality industry, Brighton Hospitality Workers have won stolen pay running into many thousands.</p>
 
 			<p>Uniting workers in the same industry is part of SolFed's strategy of fighting for ourselves; using direct action and bottom-up democracy to win these fights, allows workers to keep control of their own union.</p>
 
 			<p>Not every fight is an easy fight, but always worth fighting. From a group of isolated, ripped-off workers, they have created a support network that has brought a sense of confidence and protection where there was none. As always, they have much to do and a long way to go, but remain an inspiration in showing us what can come about if enough of us stand up to crooked bosses.</p>
+	<div class="centered">
 
+	<a class="btn btn-primary btn-lg" style="align='center'" href="${request.route_url('contact')}">If we can help you or your workmates, get in touch!</a>
 
 	</div>
+
+	</div>
+
+
+
+</div>
+</div>
 
 </metal:block>
