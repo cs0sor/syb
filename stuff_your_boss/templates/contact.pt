@@ -6,8 +6,8 @@
 	<div class="page-header">
 		<h1 class="header-style pad-heading" style="margin-top: 87px;">GET IN TOUCH!</h1>
 </div>
-<p>If you need help to organise in your workplace, need some training or need any help then either email us below or phone us on</p>
-<p><span class="badge">0191 308 2354</span></p>
+<p>If you need help to organise in your workplace, need some training or need any help then either email or call.</p>
+<p><h2>Call us on: 0191 308 2354</h2></p>
 		<div tal:content="structure form">
 
 		</div>

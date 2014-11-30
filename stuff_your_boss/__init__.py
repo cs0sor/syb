@@ -21,6 +21,6 @@ def main(global_config, **settings):
     config.add_route('case-studies', '/case-studies')
     config.add_route('contact', '/contact')
     config.add_route('test', '/test')
-
+    config.add_route('thanks', '/thanks')
     config.scan()
     return config.make_wsgi_app()
