@@ -20,7 +20,6 @@ pyramid-mako==1.0.2
 pyramid-tm==0.7
 repoze.lru==0.6
 repoze.sendmail==4.2
--e git+git@github.com:newcastlesolfed/syb.git@c5f65ace0dd58ac0746d484f8c8a9acc6d927899#egg=stuff_your_boss-master
 transaction==1.4.3
 translationstring==1.1
 venusian==1.0a8
